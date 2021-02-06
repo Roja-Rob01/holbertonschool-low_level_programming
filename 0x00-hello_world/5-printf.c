@@ -1,16 +1,13 @@
-#include <stdio.h>
+#include <studio.h>
 /**
- * main - origin
- * Roja-Rob01
- * Return: 0
- */
+*main - general access site
+*Roja-Rob01
+*return: returns a negative number, in this case 0
+*/
 
- int main(void)
-
+int main(void)
 {
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 
-    printf("\with proper grammar, but the outcome is a piece of art,");
-
-    return (0);
-
+	return (0);
 }
