@@ -1,2 +1,0 @@
-#!/bin/bash
-$ gcc -E circulo.c > circulo.pp
