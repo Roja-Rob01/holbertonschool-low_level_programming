@@ -1,10 +1,10 @@
 #include <stdio.h>
-
 /**
  * main - origin
  * Roja-Rob01
  * Return: 0
  */
+
  int main(void)
 
 {
